@@ -1,0 +1,20 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/ProjetoModelo/.vs/ProjetoModelo
+/ProjetoModelo/ProjetoModelo.Domain/obj
+/ProjetoModelo/ProjetoModelo.Facade/obj
+/ProjetoModelo/ProjetoModelo.Infra.CrossCutting/obj
+/ProjetoModelo/ProjetoModelo.Infra.Data/obj/Debug/net6.0
+/ProjetoModelo/ProjetoModelo.Infra.Data/obj
+/ProjetoModelo/ProjetoModelo.Tests.Integration/obj
+/ProjetoModelo/ProjetoModelo.Tests.Unit/obj
+/ProjetoModelo/ProjetoModelo.WebApi/obj
+/ProjetoModelo/ProjetoModelo.Domain/bin/Debug/net6.0
+/ProjetoModelo/ProjetoModelo.Facade/bin/Debug/net6.0
+/ProjetoModelo/ProjetoModelo.Infra.CrossCutting/bin/Debug/net6.0
+/ProjetoModelo/ProjetoModelo.Infra.Data/bin/Debug/net6.0
+/ProjetoModelo/ProjetoModelo.Tests.Integration/bin/Debug/net6.0
+/ProjetoModelo/ProjetoModelo.Tests.Unit/bin/Debug/net6.0
+/ProjetoModelo/ProjetoModelo.WebApi/bin/Debug/net6.0
