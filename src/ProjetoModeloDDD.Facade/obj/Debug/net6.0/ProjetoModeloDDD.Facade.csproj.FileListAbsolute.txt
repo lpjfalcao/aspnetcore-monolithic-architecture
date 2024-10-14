@@ -1,0 +1,12 @@
+C:\github\ddd\ProjetoModeloDDD\ProjetoModeloDDD.Facade\bin\Debug\net6.0\ProjetoModeloDDD.Facade.deps.json
+C:\github\ddd\ProjetoModeloDDD\ProjetoModeloDDD.Facade\bin\Debug\net6.0\ProjetoModeloDDD.Facade.dll
+C:\github\ddd\ProjetoModeloDDD\ProjetoModeloDDD.Facade\bin\Debug\net6.0\ProjetoModeloDDD.Facade.pdb
+C:\github\ddd\ProjetoModeloDDD\ProjetoModeloDDD.Facade\obj\Debug\net6.0\ProjetoModeloDDD.Facade.csproj.AssemblyReference.cache
+C:\github\ddd\ProjetoModeloDDD\ProjetoModeloDDD.Facade\obj\Debug\net6.0\ProjetoModeloDDD.Facade.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\ddd\ProjetoModeloDDD\ProjetoModeloDDD.Facade\obj\Debug\net6.0\ProjetoModeloDDD.Facade.AssemblyInfoInputs.cache
+C:\github\ddd\ProjetoModeloDDD\ProjetoModeloDDD.Facade\obj\Debug\net6.0\ProjetoModeloDDD.Facade.AssemblyInfo.cs
+C:\github\ddd\ProjetoModeloDDD\ProjetoModeloDDD.Facade\obj\Debug\net6.0\ProjetoModeloDDD.Facade.csproj.CoreCompileInputs.cache
+C:\github\ddd\ProjetoModeloDDD\ProjetoModeloDDD.Facade\obj\Debug\net6.0\ProjetoModeloDDD.Facade.dll
+C:\github\ddd\ProjetoModeloDDD\ProjetoModeloDDD.Facade\obj\Debug\net6.0\refint\ProjetoModeloDDD.Facade.dll
+C:\github\ddd\ProjetoModeloDDD\ProjetoModeloDDD.Facade\obj\Debug\net6.0\ProjetoModeloDDD.Facade.pdb
+C:\github\ddd\ProjetoModeloDDD\ProjetoModeloDDD.Facade\obj\Debug\net6.0\ref\ProjetoModeloDDD.Facade.dll

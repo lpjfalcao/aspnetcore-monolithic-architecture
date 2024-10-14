@@ -1,0 +1,20 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/ProjetoModeloDDD/.vs/ProjetoModeloDDD
+/ProjetoModeloDDD/ProjetoModeloDDD.Domain/obj
+/ProjetoModeloDDD/ProjetoModeloDDD.Facade/obj
+/ProjetoModeloDDD/ProjetoModeloDDD.Infra.CrossCutting/obj
+/ProjetoModeloDDD/ProjetoModeloDDD.Infra.Data/obj/Debug/net6.0
+/ProjetoModeloDDD/ProjetoModeloDDD.Infra.Data/obj
+/ProjetoModeloDDD/ProjetoModeloDDD.Tests.Integration/obj
+/ProjetoModeloDDD/ProjetoModeloDDD.Tests.Unit/obj
+/ProjetoModeloDDD/ProjetoModeloDDD.WebApi/obj
+/ProjetoModeloDDD/ProjetoModeloDDD.Domain/bin/Debug/net6.0
+/ProjetoModeloDDD/ProjetoModeloDDD.Facade/bin/Debug/net6.0
+/ProjetoModeloDDD/ProjetoModeloDDD.Infra.CrossCutting/bin/Debug/net6.0
+/ProjetoModeloDDD/ProjetoModeloDDD.Infra.Data/bin/Debug/net6.0
+/ProjetoModeloDDD/ProjetoModeloDDD.Tests.Integration/bin/Debug/net6.0
+/ProjetoModeloDDD/ProjetoModeloDDD.Tests.Unit/bin/Debug/net6.0
+/ProjetoModeloDDD/ProjetoModeloDDD.WebApi/bin/Debug/net6.0
